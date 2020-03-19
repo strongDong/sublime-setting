@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": false
+}

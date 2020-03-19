@@ -1,0 +1,3 @@
+{
+    "history_on_close": false,          // only save LocalHistory after closing a file, not when original was saved
+}

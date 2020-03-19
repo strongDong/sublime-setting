@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://packagecontrol.cn/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"jQuery",
+		"JsFormat",
+		"Local History",
+		"Package Control",
+		"phpfmt",
+		"SublimeCodeIntel"
+	]
+}
