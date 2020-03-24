@@ -2,13 +2,14 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"http://packagecontrol.cn/channel_v3.json"
+		"https://packagecontrol.io/channel_v3.json"
 	],
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"ChineseLocalizations",
 		"ConvertToUTF8",
 		"DocBlockr",
@@ -17,6 +18,7 @@
 		"Local History",
 		"Package Control",
 		"phpfmt",
+		"SideBarEnhancements",
 		"SublimeCodeIntel"
 	]
 }
