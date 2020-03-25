@@ -9,10 +9,12 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"ConvertToUTF8",
 		"DocBlockr",
+		"FileDiffs",
 		"jQuery",
 		"JsFormat",
 		"Local History",
